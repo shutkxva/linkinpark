@@ -1,0 +1,104 @@
+.header
+{
+	width: 100%;
+	height: 400px;
+	background-image: url(https://sun9-69.userapi.com/impg/liJi84XPmi6ZmwVik_onmKv3iVzrGxQcT096SA/--znouQGEJ8.jpg?size=1280x421&quality=96&sign=3af3e921a82dbee5ca35c110a02ca07c&type=album);
+	background-size: contain;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	position: relative;
+}
+
+@font-face {
+    font-family: Pribambas; 
+    src: url(fonts/Pribambas.ttf);
+   }
+
+body
+{
+	background-image: url(https://linkin-park.biz/css/bg.jpg);
+	background-size: contain;
+}
+
+.g_image
+{
+	margin-left: 10px;
+	margin-top: 10px;
+	height: 15%;
+}
+
+.uchastniki
+{
+	position: absolute;
+	right: 23px;
+	top: 260px;
+}
+
+.names
+{
+	color: white;
+	float: right;
+	font-size: 25px;
+	border: 1px solid white;
+	border-radius: 5px;
+	text-align: center;
+	margin-right: 10px;
+	margin-top: 10px;
+	width: 20%;
+	font-family: Pribambas;
+}
+
+.names ul
+{
+	text-align: left;
+}
+
+.ash
+{
+	color: white;
+	position: absolute;
+	bottom: 0;
+}
+
+.citata
+{
+	color: white;
+	position: absolute;
+	top: 120;
+	font-size: 25px;
+	font-family: Pribambas;
+	border: 1px solid white;
+	border-radius: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	width: 23%;
+	padding: 10px;
+} 
+
+.info
+{
+	color: white;
+	top: 300;
+	text-indent: 40px;
+	font-family: Pribambas;
+	font-size: 22px;
+}
+
+.groupph
+{
+	width: 80%;
+}
+
+.hyper
+{
+	color: white;
+	font-family: Pribambas;
+	font-size: 30px;
+	text-align: center;
+}
+
+.allign
+{
+	text-align: center;
+	width: 100%;
+}

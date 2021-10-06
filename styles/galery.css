@@ -1,0 +1,44 @@
+@font-face {
+    font-family: Pribambas; 
+    src: url(fonts/Pribambas.ttf);
+   }
+
+
+body
+{
+	background-image: url(https://linkin-park.biz/css/bg.jpg);
+	background-size: contain;
+}
+
+.zagolovok
+{
+	color: white;
+	font-family: Pribambas;
+	font-size: 40px;
+	text-align: center;
+	width: 100%;
+}
+
+.lpx
+{
+	height: 300px;
+	display: block;
+	margin: auto;
+	margin-top: 50px;
+}
+
+.lflame
+{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 350px;
+}
+
+.rflame
+{
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	width: 350px;
+}
