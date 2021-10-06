@@ -10,8 +10,10 @@
 }
 
 @font-face {
-    font-family: Pribambas; 
-    src: url(fonts/Pribambas.ttf);
+    font-family: "Pribambas"; 
+    src: url("fonts/Pribambas.ttf") format("truetype");
+	font-style: normal; 
+	font-weight: normal; 
    }
 
 body
