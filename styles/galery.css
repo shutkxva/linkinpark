@@ -1,9 +1,3 @@
-@font-face {
-    font-family: Pribambas; 
-    src: url(fonts/Pribambas.ttf);
-   }
-
-
 body
 {
 	background-image: url(https://linkin-park.biz/css/bg.jpg);
@@ -42,3 +36,10 @@ body
 	right: 0;
 	width: 350px;
 }
+
+@font-face {
+    font-family: "Pribambas"; 
+    src: url("../fonts/Pribambas.ttf") format("truetype");
+	font-style: normal; 
+	font-weight: normal; 
+   }
